@@ -19,6 +19,6 @@ Save Files from URL to Google Drive
 
 Before you deploy follow the above steps or it won't work.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arjuntsgowda/SaveToGoogleDrive)
 
 Source: https://github.com/cloud-transfer/cloud-transfer-backend
